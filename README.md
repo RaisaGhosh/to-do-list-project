@@ -1,4 +1,9 @@
 FIND THE PROJECT HERE : https://raisaghosh.github.io/to-do-list-project/
+<br />
+<br />
+A simple to-do app.
+<br />
+<br />
 
 DESKTOP VIEW:
 <img width="1431" alt="image" src="https://user-images.githubusercontent.com/71429098/180449209-8ad9261d-b872-4032-9c56-cd9d0fd29935.png">
